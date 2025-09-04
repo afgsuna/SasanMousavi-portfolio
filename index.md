@@ -5,14 +5,17 @@
 ### Category Name 1 
 
 Data Visualizations
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 Data discussions and understandings
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ML, AI, DL and Models 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
