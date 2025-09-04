@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-Data Visualizations (/sample_page)
+Data Visualizations
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Data discussions and understandings (/pdf/sample_presentation.pdf)
+Data discussions and understandings
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-ML, AI, DL and Models (http://example.com/)
+ML, AI, DL and Models 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
